@@ -4,4 +4,4 @@
 
 set -e
 
-echo 'Hello, World!' > travis-yarn-test/.some/dist/CNAME
+echo 'Hello, World!' > ./.some/dist/CNAME
