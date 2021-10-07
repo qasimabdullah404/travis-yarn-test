@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "scripts": {
+    "cname": "bash cname.sh"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Qasim Abdullah"
+}
