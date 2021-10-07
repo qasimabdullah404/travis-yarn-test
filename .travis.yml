@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - lts/*
+install:
+  #- npm i yarn g
+  - yarn install
+script:
+  - yarn cname
